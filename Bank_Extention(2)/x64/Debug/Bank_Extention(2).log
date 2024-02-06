@@ -1,0 +1,7 @@
+﻿  Bank_Extention(2).cpp
+D:\cpp project\c++ level 5\Bank_Extention(2)\Bank_Extention(2)\Bank_Extention(2).cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\cpp project\c++ level 5\Bank_Extention(2)\Bank_Extention(2)\bankExtention(2).h(130,45): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\cpp project\c++ level 5\Bank_Extention(2)\Bank_Extention(2)\bankExtention(2).h(163): warning C4715: 'bankProjectEXT::convertLineOfClientDataToStruct': not all control paths return a value
+D:\cpp project\c++ level 5\Bank_Extention(2)\Bank_Extention(2)\bankExtention(2).h(900): warning C4715: 'bankProjectEXT::converLineOfUserInfoToStruct': not all control paths return a value
+D:\cpp project\c++ level 5\Bank_Extention(2)\Bank_Extention(2)\bankExtention(2).h(981): warning C4715: 'bankProjectEXT::findUserByNamePassword': not all control paths return a value
+  Bank_Extention(2).vcxproj -> D:\cpp project\c++ level 5\Bank_Extention(2)\x64\Debug\Bank_Project_Extension(2).exe
